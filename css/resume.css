@@ -1,0 +1,125 @@
+.info {
+		line-height: 0.5;
+		margin-top: 10px;
+		font-size: 13px;
+		color: #FFFFFF;
+}
+
+.icon {
+		margin-right: 3px;
+		font-style: normal;
+		font: inherit;
+}
+
+.row {
+		padding: 30px 60px;
+}
+
+.header {
+		/*800 x 150*/
+		background-image: url("../img/ai-artificial-intelligence-code-34676.jpg");
+		padding: 30px 60px;
+		background-position: center center;
+}
+
+.left {
+		line-height: 1.5px;
+		padding: 10px 3px;
+		margin-bottom: 30px;
+}
+
+.right {
+		padding-left: 0px;
+}
+
+.place {
+		line-height: 1px;
+		font-weight: 600;
+}
+
+.vol-desc {
+		line-height: 1.5px;
+}
+
+.vol-info {
+		padding-bottom: 10px;
+}
+
+.pos {
+		line-height: 1px;
+		font-style: italic;
+}
+
+.date {
+		line-height: 1px;
+}
+
+.desc {
+		padding-bottom: 20px;
+}
+
+.buttons {
+		margin-top: -10px;
+}
+
+.desc-ed {
+		padding-bottom: 20px;
+}
+
+.education {
+		margin-top: -75px;
+}
+
+.right-ed {
+	padding-left: 0px;
+}
+
+.achievements {
+		margin-top: -50px;
+}
+
+.achlist {
+		line-height: 1.5px;
+}
+
+.skill,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:hover {
+		background-color: white;
+		border-color: black;
+		margin-top: 5px;
+		padding: 6px;
+}
+
+.vol {
+		margin-top: -30px;
+}
+
+h1 {
+		font-family: 'Alegreya Sans SC', sans-serif;
+		font-size: 40px;
+		color: #FFFFFF;
+}
+
+h2 {
+		font-family: 'Lato', sans-serif;
+		margin: 10px 0px 20px 0px;
+		font-size: 20px;
+}
+
+p,
+i {
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 13px;
+}
+
+a {
+		font-family: 'Source Sans Pro', sans-serif;
+		color: white;
+		font-size: 13px !important;
+}
+
+.fas {
+	line-height: 0px;
+}
